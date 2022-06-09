@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Admin Documentation</title>
+
+    <!-- Bootstrap -->
+    <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- jQuery custom content scroller -->
+    <link href="../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet"/>
+
+    <!-- Custom Theme Style -->
+    <link href="../build/css/custom.min.css" rel="stylesheet">
+</head>
+
+<body class="nav-md">
+<div class="container body">
+    <div class="main_container">
+        <div class="col-md-3 left_col menu_fixed">
+            <div class="left_col scroll-view">
+                <div class="navbar nav_title" style="border: 0;">
+                    <a href="AdminDashBoard.html" class="site_title"><i class="fa fa-paw"></i>
+                        <span> COG&nbsp;Admin</span></a>
+                </div>
+
+                <div class="clearfix"></div>
+
+                <!-- menu profile quick info -->
+                <div class="profile clearfix">
+                    <div class="profile_pic">
+                        <img src="images/img.png" alt="..." class="img-circle profile_img">
+                    </div>
+                    <div class="profile_info">
+                        <span>Cloud Of Goods</span>
+                        <h2>Admin Documentation</h2>
+                    </div>
+                </div>
+                <!-- /menu profile quick info -->
+
+                <br/>
+                <!--////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+                <!-- sidebar menu -->
+                <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                    <div class="menu_section">
+                        <h3>General</h3>
+                        <ul class="nav side-menu">
+                            <li><a href="AdminDashBoard.html"><i class="fa fa-home"></i> Dashboard <span
+                                    class=""></span></a>
+
+                            </li>
+                            <li><a><i class="fa fa-anchor"></i> CHE Reports <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="order_list_new.html">Basic Order List</a></li>
+                                    <li><a href="admin_open_orders.html">Un-assigned orders</a></li>
+                                    <li><a href="admin_completed_orders.html">Completed Orders List</a></li>
+                                    <li><a href="order_queue.html">Order Cancellation Queue</a></li>
+                                    <li><a href="vendorInfoReport.html">Vendor Info Report</a></li>
+                                    <li><a href="admin_charge_failures_orders.html">Charge failures Orders</a></li>
+                                    <li><a href="che_performance_report.html">Che performance report</a></li>
+                                    <li><a href="order_requests.html">Rental requests</a></li>
+                                </ul>
+                            </li>
+
+                            <li><a><i class="fa fa-first-order"></i> Orders <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="add_new_Order.html">Add New Orders</a></li>
+                                    <li><a href="orders.html">All Orders</a></li>
+                                    <li><a href="order_summary.html">Order Calendar View</a></li>
+                                    <li><a href="flagged_orders.html">Flagged Orders</a></li>
+                                    <li><a href="reservation_leads.html">Leads</a></li>
+                                    <li><a href="reservation_closed.html">Closed</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-desktop"></i> Fulfillment <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="manifests.html">Open</a></li>
+                                    <li><a href="driver_assignment.html">Driver Assignment</a></li>
+                                    <li><a href="generate-itinerary.html">Generate Driver itinerary</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-money"></i> Payments <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="transaction-list.html">Payments</a></li>
+                                    <li><a href="refund_request.html">Refund Requests</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-bar-chart-o"></i> Promotions <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="add_new.html">Add New Promotions</a></li>
+                                    <li><a href="promotions.html">Promotions</a></li>
+                                    <li><a href="promo_codes.html">Promo codes</a></li>
+                                    <li><a href="get_redemptions.html">Redemptions</a></li>
+                                    <li><a href="on_site_sticky_banners.html">On-Site banners </a></li>
+                                    <li><a href="create_new.html">Send New Promotion Email </a></li>
+                                    <li><a href="promo_emails.html">Promotion emails sent </a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-area-chart"></i> Marketing <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="create-new.html">Send Bulk Emails</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-table"></i> Catalog <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="asset_availability_calculator.html">Availability calculator</a></li>
+                                    <li><a href="item_list.html">Items</a></li>
+                                    <li><a href="add_item.html">Add Items</a></li>
+                                    <li><a href="get_item_categories.html">Item Categories</a></li>
+                                    <li><a href="add.html">Add Categories</a></li>
+                                    <li><a href="bundle_list.html">Bundles</a></li>
+                                    <li><a href="add_bundle.html">Add Bundles</a></li>
+                                    <li><a href="attributes.html">Inventory Attributes</a></li>
+                                    <li><a href="item_keywords_mapping.html">Item - Keywords mapping</a></li>
+                                    <li><a href="delivery-description-templates.html">Delivery description templates</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-star"></i>Reviews <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="review_request.html"> Review Requests</a></li>
+                                    <li><a href="tesimonials.html">System Reviews</a></li>
+                                    <li><a href="add_review.html">Add Reviews</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-support"></i>Support Requests <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="support_request_list.html"> Support Requests</a></li>
+                                    <li><a href="damage_waiver_request_list.html">Damage waiver requests</a></li>
+                                    <li><a href="support_types.html">Support types</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu_section">
+                        <ul class="nav side-menu">
+                            <li><a><i class="fa fa-bug"></i> Analytics <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="revenue-over-time.html">Revenue Over Time</a></li>
+                                    <li><a href="orders-over-time.html">Order Analytics</a></li>
+                                    <li><a href="delivery_out_zone.html">Delivery out of zone report</a></li>
+                                    <li><a href="address_inputs.html">Address Inputs</a></li>
+                                    <li><a href="date_inputs.html">Date Inputs</a></li>
+                                    <li><a href="get_product_demand.html">Product Demand</a></li>
+                                    <li><a href="get_product_rental_duration.html">Product rental duration</a></li>
+                                    <li><a href="abandoned_notification_analytics.html">Abandon analytics</a></li>
+                                    <li><a href="checkout_analytics.html">Checkout analytics</a></li>
+                                    <li><a href="anniversary_email_analytics.html"> Anniversary email analytics</a></li>
+                                    <li><a href="customer_analytics.html"> Customer analytics</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-windows"></i> Extras <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="page_403.html">403 Error</a></li>
+                                    <li><a href="page_404.html">404 Error</a></li>
+                                    <li><a href="page_500.html">500 Error</a></li>
+                                    <li><a href="plain_page.html">Plain Page</a></li>
+                                    <li><a href="login.html">Login Page</a></li>
+                                    <li><a href="pricing_tables.html">Pricing Tables</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-sitemap"></i> Multilevel Menu <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="#level1_1">Level One</a>
+                                    <li><a>Level One<span class="fa fa-chevron-down"></span></a>
+                                        <ul class="nav child_menu">
+                                            <li class="sub_menu"><a href="level2.html">Level Two</a>
+                                            </li>
+                                            <li><a href="#level2_1">Level Two</a>
+                                            </li>
+                                            <li><a href="#level2_2">Level Two</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#level1_2">Level One</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0)"><i class="fa fa-laptop"></i> Landing Page <span
+                                    class="label label-success pull-right">Coming Soon</span></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+
+                <!--            ////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+            </div>
+        </div>
+
+        <!-- top navigation -->
+        <div class="top_nav">
+            <div class="nav_menu">
+                <div class="nav toggle">
+                    <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                </div>
+                <nav class="nav navbar-nav">
+
+                </nav>
+            </div>
+        </div>
+        <!-- /top navigation -->
+        <!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+        <!-- page content -->
+        <div class="right_col" role="main">
+
+            <div class="title_left">
+                <h3>Checkout analytics<span><h5><a style="color: blue"
+                                                   href="http://localhost:8000/cog-admin/anniversary_email_analytics">
+       http://localhost:8000/cog-admin/anniversary_email_analytics</a></h5></span>
+                </h3>
+            </div>
+            <h6>Filter data From Date</h6>
+            <!--                        //////////////////////////////////////////////////////////////////////////////////////////////-->
+
+            <br>
+
+            <div class="alert alert-dark" role="alert">
+                <img src="images/annivers.PNG" alt="............" width="100%">
+            </div>
+
+            <!--     //////////////////////////////////////////////////////////////////////////////////////////////-->
+
+        </div>
+
+        <!-- /page content -->
+
+        <!-- footer content -->
+
+        <!-- /footer content -->
+    </div>
+</div>
+
+<!-- jQuery -->
+<script src="../vendors/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="../vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!-- FastClick -->
+<script src="../vendors/fastclick/lib/fastclick.js"></script>
+<!-- NProgress -->
+<script src="../vendors/nprogress/nprogress.js"></script>
+<!-- jQuery custom content scroller -->
+<script src="../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+
+<!-- Custom Theme Scripts -->
+<script src="../build/js/custom.min.js"></script>
+</body>
+</html>

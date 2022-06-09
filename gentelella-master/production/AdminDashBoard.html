@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Admin Documentation</title>
+
+    <!-- Bootstrap -->
+    <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- jQuery custom content scroller -->
+    <link href="../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet"/>
+
+    <!-- Custom Theme Style -->
+    <link href="../build/css/custom.min.css" rel="stylesheet">
+</head>
+
+<body class="nav-md">
+<div class="container body">
+    <div class="main_container">
+        <div class="col-md-3 left_col menu_fixed">
+            <div class="left_col scroll-view">
+                <div class="navbar nav_title" style="border: 0;">
+                    <a href="AdminDashBoard.html" class="site_title"><i class="fa fa-paw"></i>
+                        <span> &nbsp; Admin</span></a>
+                </div>
+
+                <div class="clearfix"></div>
+
+                <!-- menu profile quick info -->
+                <div class="profile clearfix">
+                    <div class="profile_pic">
+                        <img src="images/img.png" alt="..." class="img-circle profile_img">
+                    </div>
+                    <div class="profile_info">
+                        <span>Cloud Of Goods</span>
+                        <h2>Admin Documentation</h2>
+                    </div>
+                </div>
+                <!-- /menu profile quick info -->
+
+                <br/>
+                <!--////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+
+                <!-- sidebar menu -->
+                <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                    <div class="menu_section">
+                        <h3>General</h3>
+                        <ul class="nav side-menu">
+                            <li><a href="AdminDashBoard.html"><i class="fa fa-home"></i> Dashboard <span
+                                    class=""></span></a>
+
+                            </li>
+                            <li><a><i class="fa fa-anchor"></i> CHE Reports <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="order_list_new.html">Basic Order List</a></li>
+                                    <li><a href="admin_open_orders.html">Un-assigned orders</a></li>
+                                    <li><a href="admin_completed_orders.html">Completed Orders List</a></li>
+                                    <li><a href="order_queue.html">Order Cancellation Queue</a></li>
+                                    <li><a href="vendorInfoReport.html">Vendor Info Report</a></li>
+                                    <li><a href="admin_charge_failures_orders.html">Charge failures Orders</a></li>
+                                    <li><a href="che_performance_report.html">Che performance report</a></li>
+                                    <li><a href="order_requests.html">Rental requests</a></li>
+                                </ul>
+                            </li>
+
+                            <li><a><i class="fa fa-first-order"></i> Orders <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="add_new_Order.html">Add New Orders</a></li>
+                                    <li><a href="orders.html">All Orders</a></li>
+                                    <li><a href="order_summary.html">Order Calendar View</a></li>
+                                    <li><a href="flagged_orders.html">Flagged Orders</a></li>
+                                    <li><a href="reservation_leads.html">Leads</a></li>
+                                    <li><a href="reservation_closed.html">Closed</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-desktop"></i> Fulfillment <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="manifests.html">Open</a></li>
+                                    <li><a href="driver_assignment.html">Driver Assignment</a></li>
+                                    <li><a href="generate-itinerary.html">Generate Driver itinerary</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-money"></i> Payments <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="transaction-list.html">Payments</a></li>
+                                    <li><a href="refund_request.html">Refund Requests</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-bar-chart-o"></i> Promotions <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="add_new.html">Add New Promotions</a></li>
+                                    <li><a href="promotions.html">Promotions</a></li>
+                                    <li><a href="promo_codes.html">Promo codes</a></li>
+                                    <li><a href="get_redemptions.html">Redemptions</a></li>
+                                    <li><a href="on_site_sticky_banners.html">On-Site banners </a></li>
+                                    <li><a href="create_new.html">Send New Promotion Email </a></li>
+                                    <li><a href="promo_emails.html">Promotion emails sent </a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-area-chart"></i> Marketing <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="create-new.html">Send Bulk Emails</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-table"></i> Catalog <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="asset_availability_calculator.html">Availability calculator</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-clone"></i>Layouts <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="fixed_sidebar.html">Fixed Sidebar</a></li>
+                                    <li><a href="fixed_footer.html">Fixed Footer</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu_section">
+                        <h3>Live On</h3>
+                        <ul class="nav side-menu">
+                            <li><a><i class="fa fa-bug"></i> Additional Pages <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="e_commerce.html">E-commerce</a></li>
+                                    <li><a href="projects.html">Projects</a></li>
+                                    <li><a href="project_detail.html">Project Detail</a></li>
+                                    <li><a href="contacts.html">Contacts</a></li>
+                                    <li><a href="profile.html">Profile</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-windows"></i> Extras <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="page_403.html">403 Error</a></li>
+                                    <li><a href="page_404.html">404 Error</a></li>
+                                    <li><a href="page_500.html">500 Error</a></li>
+                                    <li><a href="plain_page.html">Plain Page</a></li>
+                                    <li><a href="login.html">Login Page</a></li>
+                                    <li><a href="pricing_tables.html">Pricing Tables</a></li>
+                                </ul>
+                            </li>
+                            <li><a><i class="fa fa-sitemap"></i> Multilevel Menu <span
+                                    class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="#level1_1">Level One</a>
+                                    <li><a>Level One<span class="fa fa-chevron-down"></span></a>
+                                        <ul class="nav child_menu">
+                                            <li class="sub_menu"><a href="level2.html">Level Two</a>
+                                            </li>
+                                            <li><a href="#level2_1">Level Two</a>
+                                            </li>
+                                            <li><a href="#level2_2">Level Two</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#level1_2">Level One</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0)"><i class="fa fa-laptop"></i> Landing Page <span
+                                    class="label label-success pull-right">Coming Soon</span></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+
+                <!--            ////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+            </div>
+        </div>
+        <!-- top navigation -->
+        <div class="top_nav">
+            <div class="nav_menu">
+                <div class="nav toggle">
+                    <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                </div>
+                <nav class="nav navbar-nav">
+
+                </nav>
+            </div>
+        </div>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+
+            <div class="title_left">
+                <h3>Admin Dashboard <span><h5><a style="color: blue"
+                                                 href="http://localhost:8000/cog-admin/dashboard">http://localhost:8000/cog-admin/dashboard</a></h5></span>
+                </h3>
+            </div>
+            <!--                        //////////////////////////////////////////////////////////////////////////////////////////////-->
+            <br>
+            <h6 style="color: #007502">Navigate to Add New Order Page >> <a style="color: #002bff"
+                                                                            href="add_new_Order.html">
+               Click.. </a> <br><a style="color: blue"  href="http://localhost:8000/cog-admin/add_reservation">http://localhost:8000/cog-admin/add_reservation</a>
+            </h6>
+            <h6 style="color: #007502">Navigate to Add Item Page >> <a style="color: #002bff" href="add_new_Item.html">
+                Click..</a><br><a  style="color: blue" href="http://localhost:8000/cog-admin/add_item">http://localhost:8000/cog-admin/add_item</a>
+            </h6>
+            <br>
+            <div class="alert alert-dark" role="alert">
+                <h4>Display Orders from Given Date/s <small> (Today, Last Month, All, Custom)</small></h4>
+                <ul>
+                    <li><h6>Net Orders : <span
+                            style="color: #6e6e6e">Total Count of Online Orders and Admin Orders</span></h6></li>
+                    <ol>
+                        <h7>Percentage Of Online Orders and Admin Orders</h7>
+                    </ol>
+                    <li><h6 style="color: red">Gross orders Count</h6></li>
+                    <li><h6 style="color: red">Rental requests Count</h6></li>
+                    <li><h6>Navigate to All Orders <a href="http://localhost:8000/cog-admin/orders" style="color: #002bff">http://localhost:8000/cog-admin/orders</a>
+                        and All Requests<a
+                                href="http://localhost:8000/cog-admin/order_requests" style="color: #002bff">
+                            http://localhost:8000/cog-admin/order_requests</a></h6></li>
+
+                </ul>
+            </div>
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Abandoned Orders from Given Date/s</h4>
+                <ul>
+                    <li><h6><a style="color: #002bff" href="reservation_leads.html">Pre-Abandoned Orders Count <small style="color: black">(
+                        http://localhost:8000/cog-admin/reservation_leads#preabandoned )</small></a></h6>
+                    </li>
+                    <ol>
+                        <h7>Navigate To reservation_leads Page (static Table)</h7>
+                    </ol>
+                    <li><h6><a style="color: #002bff" href="reservation_leads.html">Abandoned Orders Count <small style="color: black">(
+                        http://localhost:8000/cog-admin/reservation_leads )</small></a></h6></li>
+                    <ol>
+                        <h7>Navigate To reservation_leads Page (static Table)</h7>
+                    </ol>
+                    <li><h6 style="color: red">Converted Count</h6></li>
+                    <li>
+                        <h7>Online abandoned conversions</h7>
+                    </li>
+                    <li>
+                        <h7 style="color: #ff002f">Admin saved order conversions</h7>
+                    </li>
+                    <li>
+                        <h7>Abandoned carts value</h7>
+                    </li>
+                    <li>
+                        <h7>Abandoned converted value</h7>
+                    </li>
+
+                </ul>
+            </div>
+            <div class="alert alert-dark" role="alert">
+                <h4>Display Canceled orders from Given Date/s (created today and canceled) <span style="color: red"> same day ??</span>
+                </h4>
+                <ul>
+                    <li><h6>Total Net Canceled orders Count and Canceled Total Payment Amount <span
+                            style="color: #6e6e6e"></span>
+                    </h6></li>
+                    <ol>
+                        <ul>
+                            <li>
+                                <h7>Unaccepted Orders Count (Cancel By System canceled)
+                                    <span>.Count & Amount </span><span style="color: red">(function?)</span>
+                                </h7>
+                            </li>
+                        </ul>
+                    </ol>
+                    <ol>
+                        <ul>
+                            <li>
+                                <h7>Customer Cancelled <span style="color: black">.Count & Amount</span></h7>
+                            </li>
+                        </ul>
+                    </ol>
+                    <ol>
+                        <ul>
+                            <li>
+                                <h7>Admin canceled <span style="color: black">.Count & Amount</span></h7>
+                            </li>
+                        </ul>
+                    </ol>
+
+                </ul>
+            </div>
+
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Canceled orders from Given Date/s (all order cancellations)</h4>
+                <ul>
+                    <li><h6>Total Net Canceled orders Count and Canceled Total Payment Amount <span
+                            style="color: #6e6e6e"></span>
+                    </h6></li>
+                    <ol>
+                        <ul>
+                            <li>
+                                <h7>Unaccepted Orders Count (Cancel By System canceled)
+                                    <span>.Count & Amount </span><span style="color: red">(function?)</span>
+                                </h7>
+                            </li>
+                        </ul>
+                    </ol>
+                    <ol>
+                        <ul>
+                            <li>
+                                <h7>Customer Cancelled <span style="color: black">.Count & Amount</span></h7>
+                            </li>
+                        </ul>
+                    </ol>
+                    <ol>
+                        <ul>
+                            <li>
+                                <h7>Admin canceled <span style="color: black">.Count & Amount</span></h7>
+                            </li>
+                        </ul>
+                    </ol>
+
+                </ul>
+            </div>
+            <div class="alert alert-dark" role="alert">
+                <h4>Display Bookings from Given Date/s</h4>
+                <ul>
+                    <li><h6>Net bookings Amount</h6>
+                    </li>
+                    <li><h6 style="color: red"> Gross bookings Amount</h6></li>
+
+                    <li>
+                        <h7>Vendor accepted <span> >> Amount & Percentage</span></h7>
+                    </li>
+
+                    <li>
+                        <h7>Pending acceptance <span> >> Amount & Percentage</span></h7>
+                    </li>
+
+                </ul>
+            </div>
+
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Net bookings from Given Date/s<span> <h6>(Net Booking Details)</h6></span></h4>
+                <ul>
+                    <li>
+                        <h7>Rental fee <span> >> Amount & Percentage</span></h7>
+                    </li>
+
+                    <li>
+                        <h7>Delivery fee <span> >> Amount & Percentage</span></h7>
+                    </li>
+                    <li>
+                        <h7>Delivery fee <span> >> Amount & Percentage</span></h7>
+                    </li>
+                    <li>
+                        <h7>Damage waiver <span> >> Amount & Percentage</span></h7>
+                    </li>
+                    <li>
+                        <h7>Sales tax <span> >> Amount & Percentage</span></h7>
+                    </li>
+                    <li>
+                        <h7>Other <span> >> Amount & Percentage</span></h7>
+                    </li>
+
+                </ul>
+            </div>
+            <div class="alert alert-dark" role="alert">
+                <h4>Display Delivered (Realised) from Given Date/s</h4>
+                <ul>
+                    <li><h6 style="color: red">Net Amount</h6>
+                    </li>
+                    <li><h6 style="color: red"> Actual Amount</h6></li>
+
+                    <li style="color: red">
+                        <h7>Gross amount <span> >> Amount</span></h7>
+                    </li>
+
+                    <li>
+                        <h7>coupon discounts <span> >> Amount & Percentage</span></h7>
+                    </li>
+                    <li>
+                        <h7>Other discounts <span> >> Amount & Percentage</span></h7>
+                    </li>
+                    <li>
+                        <h7>Net realized revenue <span> >> Amount </span></h7>
+                    </li>
+                    <li>
+                        <h7>Realised revenue <span> >> Amount </span></h7>
+                    </li>
+
+                </ul>
+            </div>
+
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Activity Log from Given Date/s</h4>
+                <ul>
+                    <li><h6 style="">More Activity <a style="color: blue" href="http://localhost:8000/cog-admin/activity_log_list">
+                        <small> http://localhost:8000/cog-admin/activity_log_list</small></a></h6>
+                    </li>
+                    <li><h6 style=""> Activity Log </h6></li>
+                    <ul>
+
+                        <li style="">
+                            <h7>Activity Id <span> >> E.g.19821</span></h7>
+                        </li>
+                        <li style="">
+                            <h7>Activity Description (With Having Order Id + Order Completed By) <span> >> E.g.Droop completed successfully. Order id: #45242 by Kevin</span>
+                            </h7>
+                        </li>
+                        <li>
+                            <h7>Status <span> >> E.g. Delivery Order</span></h7>
+                        </li>
+                        <li>
+                            <h7>Date</h7>
+                        </li>
+
+                    </ul>
+
+
+                </ul>
+            </div>
+
+
+            <div class="alert alert-dark" role="alert">
+                <h4>Display City Performance from Given Date/s</h4>
+                <ul>
+                    <li><h6 style="">See More <a style="color: blue" href="http://localhost:8000/cog-admin/get-all-city-performance-data">
+                        <small> http://localhost:8000/cog-admin/get-all-city-performance-data</small></a></h6>
+                    </li>
+                    <li><h6 style=""> Table </h6></li>
+                    <ul>
+
+                        <li style="">
+                            <h7>City <span> >> E.g.San Francisco</span></h7>
+                        </li>
+                        <li style="">
+                            <h7>Orders <span> >> E.g.200</span>
+                            </h7>
+                        </li>
+                        <li>
+                            <h7>Accepted Orders >> E.g. 100</h7>
+                        </li>
+                        <li>
+                            <h7>Acceptance Rate (%) >> E.g. 50%</h7>
+                        </li>
+
+                        <li>
+                            <h7>All Orders ($) >> E.g. 10000.00</h7>
+                        </li>
+                        <li>
+                            <h7>Accepted ($) >> E.g.5000.00</h7>
+                        </li>
+                        <li style="color: red">
+                            <h7>Realized ($) >> E.g. 6000.00</h7>
+                        </li>
+
+                    </ul>
+
+
+                </ul>
+            </div>
+
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Vendor Performance from Given Date/s</h4>
+                <ul>
+                    <li><h6 style="">See More <a style="color: red" href="#">
+                        <small> !!!!!!!!!!!!!!! </small></a></h6>
+                    </li>
+                    <li><h6 style=""> Table </h6></li>
+                    <ul>
+
+                        <li style="">
+                            <h7>Vendor <span> >> E.g.Saman</span></h7>
+                        </li>
+                        <li style="">
+                            <h7>City <span> >> E.g.Colombo</span>
+                            </h7>
+                        </li>
+                        <li>
+                            <h7>Order Notification Count >> E.g.200</h7>
+                        </li>
+                        <li>
+                            <h7>Accepted Orders >> E.g. 100</h7>
+                        </li>
+
+                        <li>
+                            <h7>Acceptance Rate(%) >> E.g. 50%</h7>
+                        </li>
+                        <li>
+                            <h7>Potential($) >> E.g.5000.00</h7>
+                        </li>
+                        <li style="">
+                            <h7>Accepted($) >> E.g. 6000.00</h7>
+                        </li>
+                        <li>
+                            <h7>Realized ($) >> E.g. 6000.00</h7>
+                        </li>
+                    </ul>
+
+
+                </ul>
+            </div>
+
+
+            <div class="alert alert-dark" role="alert">
+                <h4>Display Top SKU performance from Given Date/s</h4>
+                <ul>
+                    <li><h6 style="">See More <a style="color: blue" href="http://localhost:8000/cog-admin/get-all-top-sku-performance-datal">
+                        <small> http://localhost:8000/cog-admin/get-all-top-sku-performance-data</small></a></h6>
+                    </li>
+                    <li><h6 style=""> Table </h6></li>
+                    <ul>
+
+                        <li style="">
+                            <h7>SKU <span> >> E.g.Lightweight Mobility Scooter</span></h7>
+                        </li>
+                        <li style="">
+                            <h7>Gross orders <span> >> E.g.88	</span>
+                            </h7>
+                        </li>
+                        <li>
+                            <h7>Accepted Orders >> E.g. 35</h7>
+                        </li>
+                        <li>
+                            <h7>Acceptance rate (%) >> E.g.40%</h7>
+                        </li>
+
+                        <li>
+                            <h7>Gross ($) >> E.g. $16600</h7>
+                        </li>
+                        <li>
+                            <h7>Accepted ($) >> E.g.$4333</h7>
+                        </li>
+                        <li>
+                            <h7>Realized ($) >> E.g. $4421.35</h7>
+                        </li>
+                        <li>
+                            <h7>Average order value ($) >> E.g. $189</h7>
+                        </li>
+                        <li>
+                            <h7>Rental days >> E.g. 552</h7>
+                        </li>
+
+                    </ul>
+
+
+                </ul>
+            </div>
+
+
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Order Item Performance from Given Date/s</h4>
+                <h6>Show Reservation, Quentin, Acceptance Count of Item </h6>
+                <ul>
+                    <li><h6 style=""> Table </h6></li>
+                    <ul>
+
+                        <li style="">
+                            <h7>City <span> >> E.g.San Francisco</span></h7>
+                        </li>
+                        <li style="">
+                            <h7>SKU <span> >> E.g.Double Jogger Stroller	</span>
+                            </h7>
+                            <ul>
+                                <li>Reservations Count</li>
+                                <li>Quantity Count</li>
+                                <li>Accepted Count</li>
+                            </ul>
+                        </li>
+                    </ul>
+
+
+                </ul>
+            </div>
+            <div class="alert alert-secondary" role="alert">
+                <h4>Display Checkout analytics from Given Date/s</h4>
+                <ul>
+                    <li><h6 style="">See More <a style="color: blue" href="checkout_analytics.html">
+                        <small> http://localhost:8000/cog-admin/checkout_analytics</small></a></h6>
+                    </li>
+                    <li><h6 style=""> Total checkout visits </h6></li>
+                    <li><h6 style=""> Data </h6></li>
+
+
+                    <li style="">
+                        <h7>Checkout page loaded >> E.g.388 (100.00%)<span style="color: red"> Dropped Count ??</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Start date inserted <span> >> E.g.356 (91.75%)	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>End date inserted<span> >> E.g.344 (88.66%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Drop-off address inserted<span> >> E.g.294 (75.77%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Pickup address inserted<span> >> E.g.283 (72.94%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Damage waiver inserted<span> >> E.g.281 (72.42%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Email address inserted<span> >> E.g.281 (72.42%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>First name inserted<span> >> E.g.276 (71.13%)	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Last name inserted<span> >> E.g.273 (70.36%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Phone number inserted<span> >> E.g.270 (69.59%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Place order button clicked<span> >> E.g.268 (69.07%) 	</span>
+                        </h7>
+                    </li>
+                    <li style="">
+                        <h7>Order Confirmed<span> >> E.g.257 (66.24%)	</span>
+                        </h7>
+                    </li>
+
+
+                </ul>
+            </div>
+            <!--                        //////////////////////////////////////////////////////////////////////////////////////////////-->
+
+        </div>
+
+        <!-- /page content -->
+
+        <!-- footer content -->
+
+        <!-- /footer content -->
+    </div>
+</div>
+
+<!-- jQuery -->
+<script src="../vendors/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="../vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!-- FastClick -->
+<script src="../vendors/fastclick/lib/fastclick.js"></script>
+<!-- NProgress -->
+<script src="../vendors/nprogress/nprogress.js"></script>
+<!-- jQuery custom content scroller -->
+<script src="../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+
+<!-- Custom Theme Scripts -->
+<script src="../build/js/custom.min.js"></script>
+</body>
+</html>
