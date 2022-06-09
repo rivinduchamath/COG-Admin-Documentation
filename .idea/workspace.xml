@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/seoAll.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/seore.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/product_pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages_v2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/city_product_landing_pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/citLand.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/cityLAndingPages.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/data.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/exUpdateCit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/updateCityLanding.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v21.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v7.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/v8.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/vendor_landing_pages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/seos.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/seos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +79,7 @@
       <workItem from="1654609141527" duration="18000" />
       <workItem from="1654609168490" duration="5571000" />
       <workItem from="1654614802610" duration="42185000" />
-      <workItem from="1654682859890" duration="29959000" />
+      <workItem from="1654682859890" duration="31558000" />
     </task>
     <servers />
   </component>
