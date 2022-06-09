@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/blog-category-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/blog-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/dashboard-legacy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/delivery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/bfs.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/blogs.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/delivary.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/localBusiness.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/localBusinessUpload.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/lorem.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/static.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/local_business_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/local_business_upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/ab_tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/ab.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/sms.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/view-all-static-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/view-all-static-pages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/test_sms.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/test_sms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +67,7 @@
       <workItem from="1654609141527" duration="18000" />
       <workItem from="1654609168490" duration="5571000" />
       <workItem from="1654614802610" duration="42185000" />
-      <workItem from="1654682859890" duration="39657000" />
+      <workItem from="1654682859890" duration="40685000" />
     </task>
     <servers />
   </component>
