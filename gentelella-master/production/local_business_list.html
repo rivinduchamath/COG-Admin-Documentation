@@ -235,12 +235,13 @@
                             <li><a><i class="fa fa-building"></i> Local Business Directory<span class="fa fa-chevron-down"></span></a>
                                 <ul class="nav child_menu">
                                     <li><a href="local_business_list.html">Local Business List</a></li>
+                                    <li><a href="local_business_upload.html">Local Business Upload</a></li>
 
                                 </ul>
                             </li>
                         </ul>
                     </div>
-
+                </div>
 
                 </div>
 
@@ -262,27 +263,29 @@
                 </nav>
             </div>
         </div>
+
         <!-- /top navigation -->
         <!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
         <!-- page content -->
         <div class="right_col" role="main">
 
             <div class="title_left">
-                <h3>Static Pages<span><h5><a style="color: blue"
-                                                   href="http://localhost:8000/cog-admin/view-all-static-pages">
-        http://localhost:8000/cog-admin/view-all-static-pages</a></h5></span>
+                <h3>Local business List<span><h5><a style="color: blue"
+                                             href="http://localhost:8000/cog-admin/local_business_list">
+        http://localhost:8000/cog-admin/local_business_list</a></h5></span>
                 </h3>
             </div>
 
             <div class="alert alert-secondary" role="alert">
-                <h6>Static Pages Table</h6>
+                <h6>Local business Pages Table</h6>
                 <ul>
                     <li> Id</li>
-
-                    <li> Title</li>
-                    <li> URI</li>
-                    <li>Updated Date</li>
+                    <li> Business NAme</li>
+                    <li> City</li>
+                    <li> Web Site</li>
+                    <li>Slug</li>
                     <li>Status</li>
+                    <li>Is Claimed?</li>
                     <li>Action</li>
                 </ul>
             </div>
@@ -291,11 +294,11 @@
             <br>
 
             <div class="alert alert-dark" role="alert">
-                <img src="images/static.PNG" alt="............" width="100%">
+                <img src="images/localBusiness.PNG" alt="............" width="100%">
             </div>
             <div class="alert alert-dark" role="alert">
-                <img src="images/lorem.PNG" alt="............" width="100%">
-            </div>
+            <iframe src="http://localhost:8000/cog-admin/update_local_business_category/532" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
+                <div class="alert alert-dark" role="alert">
 
 
             <!--     //////////////////////////////////////////////////////////////////////////////////////////////-->
@@ -307,6 +310,7 @@
         <!-- footer content -->
 
         <!-- /footer content -->
+    </div>
     </div>
 </div>
 
