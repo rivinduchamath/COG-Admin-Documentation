@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/black_listed_places.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/blocked-date-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/blockedDates.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/customDelivary.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/syastemLAbels.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/updatBlockDate.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/site-logos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/system_labels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/seoAll.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/seore.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/product_pages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/feature_flags.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/feature_flags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/seos.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/seos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +66,7 @@
       <workItem from="1654609141527" duration="18000" />
       <workItem from="1654609168490" duration="5571000" />
       <workItem from="1654614802610" duration="42185000" />
-      <workItem from="1654682859890" duration="29344000" />
+      <workItem from="1654682859890" duration="29959000" />
     </task>
     <servers />
   </component>
