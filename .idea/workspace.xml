@@ -2,158 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/DELIVARYdEP.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/ITEMkEYwORDS.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/a1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/a2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/a3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/abandend.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/aceiveRE.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/addItemCategory.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/addNewBundle.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/additems.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/addnewPromo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/allItems.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/allorderrs.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/asserts.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/avbAssets.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/banner2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/banners.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/bulkEmails.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/bundle.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/calender.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/cancellationQue.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/charge1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/charge2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/chere.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/comorders.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/createReservation.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/createnrwrefund.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/emailSend.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/flagged.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/fulfilments.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/itemCategory.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/openDeliveries.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/promoEmails.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/promotions.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/reedumption.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/refundRequest.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/rereqq.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/smal.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/transc.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/unassignData.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/venderInfo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/js/moment/adminDashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/addReviews.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/damage_waiver_request_list.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/deOZone.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/supType.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/supportRequest.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/w1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/w2.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/ab_tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/ab_tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/abandoned_notification_analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/abandoned_notification_analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_bundle.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_bundle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_new_Order.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_new_Order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_review.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_review.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/address_inputs.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/address_inputs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/admin_charge_failures_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/admin_charge_failures_orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/admin_completed_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/admin_completed_orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/admin_open_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/admin_open_orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/affiliate_materials.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/affiliate_materials.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/affiliates_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/affiliates_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/agent_commission_export.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/agent_commission_export.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/agent_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/agent_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/airbnb_host_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/airbnb_host_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/anniversary_email_analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/anniversary_email_analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/asset_availability_calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/asset_availability_calculator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/attractions-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/attractions-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/attributes.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/attributes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/automated_invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/automated_invoice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/become-an-agent-requests.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/become-an-agent-requests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/black_listed_places.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/black_listed_places.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/blocked-date-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/blocked-date-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/blog-category-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/blog-category-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/blog-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/blog-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/borrower_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/borrower_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/bundle_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/bundle_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/cancel_logic.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/cancel_logic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/che_performance_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/che_performance_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/checkout_analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/checkout_analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/cities.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/cities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/city-sku-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/city-sku-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/city_landing_pages_v2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/city_product_landing_pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/city_product_landing_pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/cog_vendors.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/cog_vendors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/craped-cruise-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/craped-cruise-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/create-new.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/create-new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/create_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/create_new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/customer_analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/customer_analytics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/damage_waiver_request_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/damage_waiver_request_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/dashboard-legacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/dashboard-legacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/date_inputs.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/date_inputs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery-description-templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery-description-templates.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery_areas.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery_areas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery_charges.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery_charges.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery_out_zone.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery_out_zone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/driver_assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/driver_assignment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/feature_flags.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/feature_flags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/fixed_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/fixed_sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/flagged_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/flagged_orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/generate-itinerary.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/generate-itinerary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_commission.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_commission.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_item_categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_item_categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_product_demand.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_product_demand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_product_rental_duration.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_product_rental_duration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_redemptions.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_redemptions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_vendor_payment_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_vendor_payment_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/invoice_generation_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/invoice_generation_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/item_keywords_mapping.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/item_keywords_mapping.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/item_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/item_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/lender_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/lender_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/list_permissions.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/list_permissions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/local_business_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/local_business_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/local_business_upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/local_business_upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/manifests.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/manifests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/notification_purpose.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/notification_purpose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/offline_vendor_transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/offline_vendor_transactions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/on_site_sticky_banners.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/on_site_sticky_banners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_list_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_list_new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_queue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_requests.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_requests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_summary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/orders-over-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/orders-over-time.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/product_pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/product_pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/promo_codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/promo_codes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/promo_emails.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/promo_emails.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/promotions.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/promotions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/refund_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/refund_request.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/reservation_closed.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/reservation_closed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/reservation_leads.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/reservation_leads.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/revenue-over-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/revenue-over-time.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/review_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/review_request.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/scraped-hotel-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/scraped-hotel-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/scraped-neighborhood-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/scraped-neighborhood-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/seos.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/seos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/site-logos.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/site-logos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/sms_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/sms_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/subscription-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/subscription-list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/support_request_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/support_request_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/support_types.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/support_types.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/sys_config.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/sys_config.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/system_labels.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/system_labels.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/tesimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/tesimonials.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gentelella-master/production/test_sms.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/test_sms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/transaction-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/transaction-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/user_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/user_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/user_roles.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/user_roles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/vendor-payouts.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/vendor-payouts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/vendorInfoReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/vendorInfoReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/vendor_landing_pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/vendor_landing_pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/vendor_payout_invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/vendor_payout_invoice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/view-all-static-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/view-all-static-pages.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +81,7 @@
       <workItem from="1654609168490" duration="5571000" />
       <workItem from="1654614802610" duration="42185000" />
       <workItem from="1654682859890" duration="42104000" />
-      <workItem from="1654777267227" duration="16723000" />
+      <workItem from="1654777267227" duration="21999000" />
     </task>
     <servers />
   </component>
