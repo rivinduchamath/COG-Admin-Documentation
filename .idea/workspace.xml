@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/reservation_leads.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/reservation_leads.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1654609168490" duration="5571000" />
       <workItem from="1654614802610" duration="42185000" />
       <workItem from="1654682859890" duration="42104000" />
-      <workItem from="1654777267227" duration="23326000" />
+      <workItem from="1654777267227" duration="24299000" />
     </task>
     <servers />
   </component>
