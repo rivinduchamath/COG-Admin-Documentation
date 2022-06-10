@@ -317,12 +317,12 @@
                 <h4>Display Orders from Given Date/s <small> (Today, Last Month, All, Custom)</small></h4>
                 <ul>
                     <li><h6>Net Orders : <span
-                            style="color: #6e6e6e">Total Count of Online Orders and Admin Orders</span></h6></li>
+                            style="color: #6e6e6e">Total Count of Online Orders and Admin Orders(WithOut Cancelled)</span></h6></li>
                     <ol>
                         <h7>Percentage Of Online Orders and Admin Orders</h7>
                     </ol>
-                    <li><h6 style="color: red">Gross orders Count</h6></li>
-                    <li><h6 style="color: red">Rental requests Count</h6></li>
+                    <li><h6 style="color: red">Gross orders Count<small>Total Orders with Cancelled</small></h6></li>
+                    <li><h6 style="color: red">Rental requests Count<small>Orders Requested But No Vendor</small></h6></li>
                     <li><h6>Navigate to All Orders <a href="http://localhost:8000/cog-admin/orders" style="color: #002bff">http://localhost:8000/cog-admin/orders</a>
                         and All Requests<a
                                 href="http://localhost:8000/cog-admin/order_requests" style="color: #002bff">
@@ -339,17 +339,17 @@
                 <h4>Display Abandoned Orders from Given Date/s</h4>
                 <ul>
                     <li><h6><a style="color: #002bff" href="reservation_leads.html">Pre-Abandoned Orders Count <small style="color: black">(
-                        http://localhost:8000/cog-admin/reservation_leads#preabandoned ) (Pre-Abandoned == User Enter to the system without Sign In) </small></a></h6>
+                        http://localhost:8000/cog-admin/reservation_leads#preabandoned ) (Pre-Abandoned == User Enter to the system and Filled Order Submitting Form without Entering Email Or Mobile/ without Sign In/ Not Purchased) </small></a></h6>
                     </li>
                     <ol>
                         <h7>Navigate To reservation_leads Page (static Table)</h7>
                     </ol>
                     <li><h6><a style="color: #002bff" href="reservation_leads.html">Abandoned Orders Count <small style="color: black">(
-                        http://localhost:8000/cog-admin/reservation_leads )  (Abandoned == User Enter to the system and Sign In)</small></a></h6></li>
+                        http://localhost:8000/cog-admin/reservation_leads )  (Abandoned == User Enter to the system and Sign In Or Filled and saved Order With Email Or Mobile Number)</small></a></h6></li>
                     <ol>
                         <h7>Navigate To reservation_leads Page (static Table)</h7>
                     </ol>
-                    <li><h6 style="color: red">Converted Count</h6></li>
+                    <li><h6 style="color: red">Converted Count <small>Placed Order Form Abandoned Or Pre-Abandoned List</small></h6></li>
                     <li>
                         <h7>Online abandoned conversions</h7>
                     </li>
@@ -693,7 +693,7 @@
 
 
                     <li style="">
-                        <h7>Checkout page loaded >> E.g.388 (100.00%)<span style="color: red"> Dropped Count ??</span>
+                        <h7>Checkout page loaded >> E.g.388 (100.00%)<span style=""> Dropped Count == Dropped Customer Count From Each Stage</span>
                         </h7>
                     </li>
                     <li style="">

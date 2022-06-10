@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/addReviews.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/damage_waiver_request_list.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/deOZone.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/supType.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/supportRequest.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/w1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/w2.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/ab_tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/ab_tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_review.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_review.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/damage_waiver_request_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/damage_waiver_request_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/delivery_out_zone.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/delivery_out_zone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/orders-over-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/orders-over-time.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/revenue-over-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/revenue-over-time.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/support_request_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/support_request_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/support_types.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/support_types.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/test_sms.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/test_sms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +65,7 @@
       <workItem from="1654609168490" duration="5571000" />
       <workItem from="1654614802610" duration="42185000" />
       <workItem from="1654682859890" duration="42104000" />
-      <workItem from="1654777267227" duration="21999000" />
+      <workItem from="1654777267227" duration="23326000" />
     </task>
     <servers />
   </component>
