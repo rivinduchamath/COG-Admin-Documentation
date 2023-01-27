@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5bfa2fe1-a502-4077-8999-fa3bbb9f5ff1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/additems.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/dash3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/dashboard2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/productDemand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/productdemand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/refundReques1t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gentelella-master/production/images/refundRequest.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gentelella-master/production/reservation_leads.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/reservation_leads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/AdminDashBoard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/add_new_Order.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/add_new_Order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/admin_charge_failures_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/admin_charge_failures_orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/admin_completed_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/admin_completed_orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/admin_open_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/admin_open_orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/asset_availability_calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/asset_availability_calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/che_performance_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/che_performance_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/get_product_demand.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/get_product_demand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/item_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/item_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_list_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_list_new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_queue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/order_requests.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/order_requests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/promo_codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/promo_codes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/promotions.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/promotions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/transaction-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/transaction-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gentelella-master/production/vendorInfoReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/gentelella-master/production/vendorInfoReport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +69,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;app.teamhub.trackedBranches&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AdminDashTemplate-master/gentelella-master/gentelella-master/production/images&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/rivindu/WebstormProjects/COG-Admin-Documentation/gentelella-master/production/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gentelella-master/production/images" />
       <recent name="D:\AdminDashTemplate-master\gentelella-master\gentelella-master\production\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -66,6 +101,14 @@
       <workItem from="1654614802610" duration="42185000" />
       <workItem from="1654682859890" duration="42104000" />
       <workItem from="1654777267227" duration="24299000" />
+      <workItem from="1674473073593" duration="6495000" />
+      <workItem from="1674530034446" duration="9039000" />
+      <workItem from="1674557728973" duration="609000" />
+      <workItem from="1674568679110" duration="785000" />
+      <workItem from="1674617307122" duration="1922000" />
+      <workItem from="1674653200540" duration="604000" />
+      <workItem from="1674662312106" duration="596000" />
+      <workItem from="1674732608795" duration="19091000" />
     </task>
     <servers />
   </component>

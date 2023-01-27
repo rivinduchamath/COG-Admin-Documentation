@@ -316,23 +316,72 @@
             <div class="alert alert-dark" role="alert">
                 <h4>Display Orders from Given Date/s <small> (Today, Last Month, All, Custom)</small></h4>
                 <ul>
-                    <li><h6>Net Orders : <span
-                            style="color: #6e6e6e">Total Count of Online Orders and Admin Orders(WithOut Cancelled)</span></h6></li>
-                    <ol>
-                        <h7>Percentage Of Online Orders and Admin Orders</h7>
-                    </ol>
-                    <li><h6 style="color: red">Gross orders Count<small>Total Orders with Cancelled</small></h6></li>
-                    <li><h6 style="color: red">Rental requests Count<small>Orders Requested But No Vendor</small></h6></li>
+<!--                    <ol>-->
+<!--                        <h7>Percentage Of Online Orders and Admin Orders</h7>-->
+<!--                    </ol>-->
+                    <h5>Orders</h5>
+                    <li><h6 style="">Net Orders :<small>Total Count of Online Orders and Admin Orders(WithOut Cancelled)</small></h6></li>
+                    <li><h6 style="">Requests :<small>Order Requests:</small></h6></li>
+                    <li><h6 style="">Gross Orders :<small>Total Orders</small></h6></li>
+                    <ol><h7>Way to identify order Comes from Admin or Online</h7></ol>
+                  <hr>
+                    <h5>Bookings</h5>
+                    <li><h6 style="">Net Booking :<small>Accepted Orders, Order Completed, order Delivered</small></h6></li>
+                    <li><h6 style="">Gross Booking Count<small>Total Orders with all Stages including Cancelled</small></h6></li>
+                    <ol><h7>Showing Vendor Accepted Orders After Order Confirmed Stage and Pending Acceptance</h7></ol>
+                    <hr>
+
+                    <h5>Activity Log</h5>
+                    <li><h6 style="">Activity Log<small>All Processes that happened to the order.</small></h6></li>
+                    <ol><h7>Must Include other Data like Item Price Change Category Adding Etc..</h7></ol>
+                    <hr>
+
+                    <h5>Abandoned Orders</h5>
+                    <li><h6 style="">Pre-Abandoned Orders<small>If SomeOne Leave From Checkout Page Without Entering Unique Identification Details.</small></h6></li>
+                    <li><h6 style="">Abandoned Orders<small>If SomeOne can Uniquely identify in Checkout Page ( Maybe Logged-In User).</small></h6></li>
+                    <li><h6 style="">Converted<small>Convert Pre-Abandoned to Abandoned.</small></h6></li>
+                    <ol><h7>Must Include other Data like Item Price Change Category Adding Etc..</h7></ol>
+                    <hr>
+                    <h5>Net Bookings</h5>
+                    <li><h6 style="">Rental Fee<small>Fee For Rental When We're Adding a Discount It's Adding Only For This Rental Fee.</small></h6></li>
+                    <li><h6 style="">Damage Waiver Fee<small>In Checkout Page There is a Feature flag to Add damage Waiver, Inside Checkout
+                        or OutSide Checkout Path. But Now When You are Going to check out It's asking Add Damage Waiver By Popup Massage.
+                    After Checkout Also We can add damage Waiver. But We cannot add it after Drop Off.
+                    </small></h6></li>
+                    <li><h6 style="">Sales Tax <small>?????????????.</small></h6></li>
+                    <li><h6 style="">Other <small>?????????????.</small></h6></li>
+<!--                    <ol><h7>Must Include other Data like Item Price Change Category Adding Etc..</h7></ol>-->
+                    <hr>
+
+
+                    <h5>Delivered ( Released )</h5>
+                    <li><h6 style="">Gross amount<small> ???</small></h6></li>
+                    <li><h6 style="">Net realized revenue<small> ???</small></h6></li>
+                    <li><h6 style="">Realized revenue<small> ???</small></h6></li>
+<!--                    <ol><h7>Must Include other Data like Item Price Change Category Adding Etc..</h7></ol>-->
+                    <hr>
+
+                    <h5>Canceled orders (created today and canceled)</h5>
+                    <li><h6 style="">All Orders Cancellations (System , Admin, Customer) Created today<small> </small></h6></li>
+                    <hr>
+                    <h5>canceled orders (all order cancellations)</h5>
+                    <li><h6 style="">All Orders Cancellations (System , Admin, Customer)Not Only Created today<small> </small></h6></li>
+                    <hr>
                     <li><h6>Navigate to All Orders <a href="http://localhost:8000/cog-admin/orders" style="color: #002bff">http://localhost:8000/cog-admin/orders</a>
                         and All Requests<a
                                 href="http://localhost:8000/cog-admin/order_requests" style="color: #002bff">
                             http://localhost:8000/cog-admin/order_requests</a></h6></li>
 
                 </ul>
-
-
-
-                <iframe src="http://localhost:8000/cog-admin/dashboard" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
+                <div class="alert alert-dark" role="alert">
+                    <img src="images/dashboard.png" alt="............" width="100%">
+                </div>
+                <div class="alert alert-dark" role="alert">
+                    <img src="images/dashboard2.png" alt="............" width="100%">
+                </div>
+                <div class="alert alert-dark" role="alert">
+                    <img src="images/dash3.png" alt="............" width="100%">
+                </div>
 
             </div>
             <div class="alert alert-secondary" role="alert">
@@ -349,12 +398,12 @@
                     <ol>
                         <h7>Navigate To reservation_leads Page (static Table)</h7>
                     </ol>
-                    <li><h6 style="color: red">Converted Count <small>Placed Order Form Abandoned Or Pre-Abandoned List</small></h6></li>
+                    <li><h6 style="">Converted Count <small>Placed Order Form Abandoned Or Pre-Abandoned List</small></h6></li>
                     <li>
                         <h7>Online abandoned conversions</h7>
                     </li>
                     <li>
-                        <h7 style="color: #ff002f">Admin saved order conversions</h7>
+                        <h7 style="">Admin saved order conversions</h7>
                     </li>
                     <li>
                         <h7>Abandoned carts value</h7>
@@ -366,7 +415,7 @@
                 </ul>
             </div>
             <div class="alert alert-dark" role="alert">
-                <h4>Display Canceled orders from Given Date/s (created today and canceled) <span style="color: red"> same day ??</span>
+                <h4>Display Canceled orders from Given Date/s (created today and canceled) <span style=""> same day ??</span>
                 </h4>
                 <ul>
                     <li><h6>Total Net Canceled orders Count and Canceled Total Payment Amount <span
@@ -376,7 +425,7 @@
                         <ul>
                             <li>
                                 <h7>Unaccepted Orders Count (Cancel By System canceled)
-                                    <span>.Count & Amount </span><span style="color: red">(function?)</span>
+                                    <span>.Count & Amount </span><span style="">(function?)</span>
                                 </h7>
                             </li>
                         </ul>
@@ -409,7 +458,7 @@
                         <ul>
                             <li>
                                 <h7>Unaccepted Orders Count (Cancel By System canceled)
-                                    <span>.Count & Amount </span><span style="color: red">(function?)</span>
+                                    <span>.Count & Amount </span><span style="">(function?)</span>
                                 </h7>
                             </li>
                         </ul>
@@ -436,7 +485,7 @@
                 <ul>
                     <li><h6>Net bookings Amount</h6>
                     </li>
-                    <li><h6 style="color: red"> Gross bookings Amount</h6></li>
+                    <li><h6 style=""> Gross bookings Amount</h6></li>
 
                     <li>
                         <h7>Vendor accepted <span> >> Amount & Percentage</span></h7>
@@ -477,11 +526,11 @@
             <div class="alert alert-dark" role="alert">
                 <h4>Display Delivered (Realised) from Given Date/s</h4>
                 <ul>
-                    <li><h6 style="color: red">Net Amount</h6>
+                    <li><h6 style="">Net Amount</h6>
                     </li>
-                    <li><h6 style="color: red"> Actual Amount</h6></li>
+                    <li><h6 style=""> Actual Amount</h6></li>
 
-                    <li style="color: red">
+                    <li style="">
                         <h7>Gross amount <span> >> Amount</span></h7>
                     </li>
 
@@ -503,6 +552,9 @@
 
             <div class="alert alert-secondary" role="alert">
                 <h4>Display Activity Log from Given Date/s</h4>
+                <h5>Display All Order Related Activities In the System. With Tracking Who Did that Process.
+                <small>In 5.0 Version We need to add All Tracking Details with User Identification. Including Price Changes and others.</small>
+                </h5>
                 <ul>
                     <li><h6 style="">More Activity <a style="color: blue" href="http://localhost:8000/cog-admin/activity_log_list">
                         <small> http://localhost:8000/cog-admin/activity_log_list</small></a></h6>
@@ -560,7 +612,7 @@
                         <li>
                             <h7>Accepted ($) >> E.g.5000.00</h7>
                         </li>
-                        <li style="color: red">
+                        <li style="">
                             <h7>Realized ($) >> E.g. 6000.00</h7>
                         </li>
 
@@ -573,7 +625,7 @@
             <div class="alert alert-secondary" role="alert">
                 <h4>Display Vendor Performance from Given Date/s</h4>
                 <ul>
-                    <li><h6 style="">See More <a style="color: red" href="#">
+                    <li><h6 style="">See More <a style="" href="#">
                         <small> !!!!!!!!!!!!!!! </small></a></h6>
                     </li>
                     <li><h6 style=""> Table </h6></li>
